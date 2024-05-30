@@ -9,6 +9,6 @@ Repository = "https://github.com/Gourieff/ComfyUI-FutureWarningIgnore"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "gourieff"
 DisplayName = "ComfyUI-FutureWarningIgnore"
 Icon = ""
