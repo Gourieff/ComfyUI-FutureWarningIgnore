@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-futurewarningignore"
-description = "This extension collapses 'future warning'"
+description = "This extension collapses 'future warning' messages in your Console"
 version = "1.0.0"
 license = "LICENSE"
 
